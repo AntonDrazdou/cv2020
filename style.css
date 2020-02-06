@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.wrapper {
+    display: flex;
+}
+img {
+    width: inherit;
+}
+
+.photo {
+    width: 200px;
+    height: 200px;
+}
